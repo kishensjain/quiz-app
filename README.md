@@ -8,4 +8,4 @@ A simple quiz application built with HTML, CSS, and JavaScript.
 - View final score
 
 ## Live Demo
-[GitHub Pages Link](https://kishensjain.github.io/quiz-app/)
+[Live Quiz](https://kishensjain.github.io/quiz-app/)
